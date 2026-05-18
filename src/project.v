@@ -6,7 +6,7 @@
 `default_nettype none
 `define VGA_REGISTERED_OUTPUTS
 
-module tt_um_rejunity_vga_logo (
+module tt_um_Logo_IIT_UACJ2 (
   input  wire [7:0] ui_in,
   output wire [7:0] uo_out,
   input  wire [7:0] uio_in,
