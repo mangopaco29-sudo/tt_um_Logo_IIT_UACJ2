@@ -28,7 +28,7 @@ module tb ();
 `endif
 
   // Replace tt_um_example with your module name:
-  tt_um_Logo_IIT_UACJ2 uut (
+tt_um_Logo_IIT_UACJ2 uut (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
